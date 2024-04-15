@@ -79,7 +79,8 @@ python app.py
 
 
 #### Screenshot
-![alt text](image.png)
+![Dashboard capture](./screenshots/capture.png)
+
 
 
 
